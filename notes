@@ -1,0 +1,2 @@
+THINGS TO TEST WITH MLFLOW
+1 - Unet UpConv function has 2 ways. One of them uses 'Upsample' function. There are many modes for this. Test all.
